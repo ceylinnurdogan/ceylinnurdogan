@@ -1,11 +1,17 @@
 ### Hi there 👋, I'm Ceylin
 
-<!--
-**ceylinnurdogan/ceylinnurdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<br/> 
 
-<!-- Here are some ideas to get you started: -->
-![fz6d](https://github.com/ceylinnurdogan/ceylinnurdogan/assets/145356388/b8ef4fd3-d945-402a-9890-9fd61bed05f3)
+<div align="center">
+<img src="./fz6d.gif" align="left" style="width: 70%" />
+</div>  
 
+<br/> 
 
 - 🌱 I’m currently learning full stack
 - 📫 How to reach me: ceylinnurdogan@gmail.com
+
+
+
+<!--
+**ceylinnurdogan/ceylinnurdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
